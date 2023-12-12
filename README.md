@@ -1,7 +1,6 @@
 # TravelAgency
 Object Oriented Programming Project it is about travel Agency call KAIZEN of three cities (Muscat-Alexandrai-Kuala Lumpur)
-
-The project done by Using Java
+The project done by Using Java (NetBeans)
 
 
 
